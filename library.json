@@ -1,0 +1,274 @@
+{
+  "Food": {
+    "display": false,
+    "data": [
+      {
+        "name": "Family Promise Chicago North Shore (FPCNS)",
+        "url": "https://familypromise.org/the-latest/family-promise-welcomes-chicago-north-shore/",
+        "description": "Family Promise serves families with young children who are homeless or at risk of becoming homeless.  Provides 3 nutritious meals a day.",
+        "notes": "Tracy L. McKeithen, M.A. Network Director\n847-475-4500\ntracy@fpcnorthshore.org",
+        "category": "Food",
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "children",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": "long_term",
+        "new": true,
+        "show": true,
+        "review": false
+      },
+      {
+        "name": "Homelessness Prevention Suburban Cook County ",
+        "url": NaN,
+        "description": "We have a food pantry that consists of a client choice menu that includes the basic food groups and a community garden which allows our clients to grow their own fruits and vegetables.  We also offer clients an opportunity to apply for food stamps through our SNAP Outreach program.",
+        "notes": "Monday\u2013Friday\n10am\u20132pm \n877.426.6515",
+        "category": "Food",
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": [
+          "long_term",
+          "short_term"
+        ],
+        "new": true,
+        "show": true,
+        "review": false
+      },
+      {
+        "name": "Interfaith Action of Evanston's Hospitality Center",
+        "url": "http://www.interfaithactionofevanston.org/what-is-interfaith-action/services/hospitality-center/",
+        "description": "Inspired by diverse faiths and shared values, Interfaith Action of Evanston brings people together to serve hungry and homeless people, pursue interfaith dialogue, and engage in advocacy that promotes social justice.",
+        "notes": "Monday - Friday \n7:00am - 11:00am. \nSt. Mark\u2019s Episcopal Church, 1509 Ridge Ave, Evanston.",
+        "category": "Food",
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": [
+          "any_beliefs",
+          "christian"
+        ],
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": "short_term",
+        "new": true,
+        "show": true,
+        "review": false
+      },
+      {
+        "name": "Connection's Drop-In",
+        "url": NaN,
+        "description": "Services available include: \u200bFood Pantry",
+        "notes": "Monday - Thursday 1:30pm - 4:00pm\n Friday 10:30am - 1:00pm\n1458 Chicago Ave, Evanston\nBasement entrance located on the northwest corner of Lake Street Church. ",
+        "category": "Food",
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": "short_term",
+        "new": true,
+        "show": true,
+        "review": false
+      },
+      {
+        "name": "Broadway Youth Center - Chicago, IL",
+        "url": "http://www.howardbrown.org/byc",
+        "description": "A safe and affirming space for youth to receive hot meals\nFree services for homeless and LGBTQ youth age 12-24. ",
+        "notes": "Hours of Operation: \nMonday, Tuesday, Thursday, Friday 9:00 am - 5:00 pm \n4009 N Broadway Chicago, IL 60613\n773-299-7600",
+        "category": "Food",
+        "gender": "gender_nonconforming",
+        "race_ethnicity": "any_race",
+        "age": [
+          "children",
+          "teens",
+          "young_adults"
+        ],
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": [
+          "homosexual",
+          "bisexual",
+          "lgbt"
+        ],
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": [
+          "long_term",
+          "short_term"
+        ],
+        "new": true,
+        "show": true,
+        "review": false
+      },
+      {
+        "name": "Test Org",
+        "url": NaN,
+        "description": "This is a test",
+        "notes": "This is still a test",
+        "category": [
+          "Food",
+          "Education",
+          "Health",
+          "Housing",
+          "Cinnamon Buns"
+        ],
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": NaN,
+        "new": false,
+        "show": true,
+        "review": false
+      }
+    ]
+  },
+  "Education": {
+    "display": false,
+    "data": [
+      {
+        "name": "Test Org",
+        "url": NaN,
+        "description": "This is a test",
+        "notes": "This is still a test",
+        "category": [
+          "Food",
+          "Education",
+          "Health",
+          "Housing",
+          "Cinnamon Buns"
+        ],
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": NaN,
+        "new": false,
+        "show": true,
+        "review": false
+      }
+    ]
+  },
+  "Health": {
+    "display": false,
+    "data": [
+      {
+        "name": "Test Org",
+        "url": NaN,
+        "description": "This is a test",
+        "notes": "This is still a test",
+        "category": [
+          "Food",
+          "Education",
+          "Health",
+          "Housing",
+          "Cinnamon Buns"
+        ],
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": NaN,
+        "new": false,
+        "show": true,
+        "review": false
+      }
+    ]
+  },
+  "Housing": {
+    "display": false,
+    "data": [
+      {
+        "name": "Test Org",
+        "url": NaN,
+        "description": "This is a test",
+        "notes": "This is still a test",
+        "category": [
+          "Food",
+          "Education",
+          "Health",
+          "Housing",
+          "Cinnamon Buns"
+        ],
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": NaN,
+        "new": false,
+        "show": true,
+        "review": false
+      }
+    ]
+  },
+  "Other": {
+    "display": false,
+    "data": [
+      {
+        "name": "Test Org",
+        "url": NaN,
+        "description": "This is a test",
+        "notes": "This is still a test",
+        "category": [
+          "Food",
+          "Education",
+          "Health",
+          "Housing",
+          "Cinnamon Buns"
+        ],
+        "gender": "any_gender",
+        "race_ethnicity": "any_race",
+        "age": "any_age_group",
+        "marital_status": "any_marital_status",
+        "employment": "any_employment",
+        "sexual_orient": "any_orientation",
+        "beliefs": "any_beliefs",
+        "criminality": "any_criminal_status",
+        "citizenship": "any_citizenship_status",
+        "time_period": NaN,
+        "new": false,
+        "show": true,
+        "review": false
+      }
+    ]
+  }
+}

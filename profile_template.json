@@ -1,0 +1,68 @@
+{
+      "category": [
+            "Food",
+            "Housing",
+            "Health",
+            "Education",
+            "Other"
+      ],
+      "gender": [
+            "any_gender",
+            "male",
+            "female"
+      ],
+      "race_ethnicity": [
+            "any_race",
+            "black",
+            "white",
+            "latinx",
+            "asian"
+      ],
+      "employment": [
+            "any_employment",
+            "student",
+            "unemployed"
+      ],
+      "age": [
+            "any_age_group",
+            "children",
+            "teens",
+            "young_adults",
+            "adults",
+            "elderly"
+      ],
+      "marital_status": [
+            "any_marital_status",
+            "single",
+            "married",
+            "divorced"
+      ],
+      "sexual_orient": [
+            "any_orientation",
+            "homosexual",
+            "heterosexual",
+            "bisexual"
+      ],
+      "beliefs": [
+            "any_beliefs",
+            "christian",
+            "jewish",
+            "muslim",
+            "atheist"
+      ],
+      "criminality": [
+            "any_criminal_status",
+            "felon",
+            "non-felon"
+      ],
+      "citizenship": [
+            "any_citizenship_status",
+            "resident",
+            "us_citzen"
+      ],
+      "time_period": [
+            "long_term",
+            "short_term",
+            "either"
+      ]
+}
