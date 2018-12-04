@@ -71,10 +71,14 @@ def construct_library(path):
                 temp.append(d)
                 library['Housing']['data'] = temp
 
+            # if my_cat[i] not in master_categories:
+            #     temp = library['Other']['data']
+            #     temp.append(d)
+            #     library['Other']['data'] = temp
             if my_cat[i] not in master_categories:
-                temp = library['Other']['data']
-                temp.append(d)
-                library['Other']['data'] = temp
+                if library.get(my_cat[i], None):
+                    library[my_cat[i]]['data'].append(d)
+                library[my_cat[i]] = {'data': [d], 'display': False}
 
     return library
 

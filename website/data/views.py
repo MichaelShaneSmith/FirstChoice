@@ -26,7 +26,7 @@ def new(request):
 @csrf_exempt
 def update(request):
     if request.method == 'POST':
-        print(str(request.body))
+        # print(str(request.body))
 
         my_response = construct_library(dataset_path)
 
@@ -44,10 +44,11 @@ def update(request):
             "time_period": "either"
         }
 
-        seta = set(profile['category'])
-        setb = set(my_response.keys())
-        for cat in list(setb.difference(seta)):
-            my_response.pop(cat)
+        if 'All' not in profile['category']:
+            seta = set(profile['category'])
+            setb = set(my_response.keys())
+            for cat in list(setb.difference(seta)):
+                my_response.pop(cat)
 
         for k, v in profile.items():
             if k == 'category':

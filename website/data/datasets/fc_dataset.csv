@@ -1,14 +1,14 @@
-Timestamp,Title,Website Url ,Brief Description,"Useful Info (Phone #, Email, Hours, Point of Contact, etc.)",What Category(s)?,Gender,Race/Ethnicity,Age,Marital Status,Employment Status,Sexual Orientation,Beliefs,Criminal Status,Citizenship,Time Period,Is this a new resource or an update to an existing entry?
+﻿Timestamp,Title,Website Url ,Brief Description,"Useful Info (Phone #, Email, Hours, Point of Contact, etc.)",What Category(s)?,Gender,Race/Ethnicity,Age,Marital Status,Employment Status,Sexual Orientation,Beliefs,Criminal Status,Citizenship,Time Period,Is this a new resource or an update to an existing entry?
 11/19/2018 13:59:44,Family Promise Chicago North Shore (FPCNS),https://familypromise.org/the-latest/family-promise-welcomes-chicago-north-shore/,Family Promise serves families with young children who are homeless or at risk of becoming homeless.  Provides 3 nutritious meals a day.,"Tracy L. McKeithen, M.A. Network Director
 847-475-4500
-tracy@fpcnorthshore.org",Food,any_gender,any_race,children,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,long_term,new
-11/20/2018 12:45:54,Homelessness Prevention Suburban Cook County ,None,We have a food pantry that consists of a client choice menu that includes the basic food groups and a community garden which allows our clients to grow their own fruits and vegetables.  We also offer clients an opportunity to apply for food stamps through our SNAP Outreach program.,"Monday–Friday
+tracy@fpcnorthshore.org",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,long_term,new
+11/20/2018 12:45:54,Homelessness Prevention Suburban Cook County ,http://www.dhs.state.il.us/page.aspx?item=30366,We have a food pantry that consists of a client choice menu that includes the basic food groups and a community garden which allows our clients to grow their own fruits and vegetables.  We also offer clients an opportunity to apply for food stamps through our SNAP Outreach program.,"Monday–Friday
 10am–2pm 
 877.426.6515",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,"long_term, short_term",new
 11/20/2018 12:58:44,Interfaith Action of Evanston's Hospitality Center,http://www.interfaithactionofevanston.org/what-is-interfaith-action/services/hospitality-center/,"Inspired by diverse faiths and shared values, Interfaith Action of Evanston brings people together to serve hungry and homeless people, pursue interfaith dialogue, and engage in advocacy that promotes social justice.","Monday - Friday 
 7:00am - 11:00am. 
 St. Mark’s Episcopal Church, 1509 Ridge Ave, Evanston.",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,"any_beliefs, christian",any_criminal_status,any_citizenship_status,short_term,new
-11/20/2018 13:01:15,Connection's Drop-In,None,Services available include: ​Food Pantry,"Monday - Thursday 1:30pm - 4:00pm
+11/20/2018 13:01:15,Connection's Drop-In,https://www.connect2home.org/housing.html,Services available include: ​Food Pantry,"Monday - Thursday 1:30pm - 4:00pm
  Friday 10:30am - 1:00pm
 1458 Chicago Ave, Evanston
 Basement entrance located on the northwest corner of Lake Street Church. ",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,short_term,new
@@ -17,7 +17,6 @@ Free services for homeless and LGBTQ youth age 12-24. ","Hours of Operation:
 Monday, Tuesday, Thursday, Friday 9:00 am - 5:00 pm 
 4009 N Broadway Chicago, IL 60613
 773-299-7600",Food,gender_nonconforming,any_race,"children, teens, young_adults",any_marital_status,any_employment,"homosexual, bisexual, lgbt",any_beliefs,any_criminal_status,any_citizenship_status,"long_term, short_term",new
-11/28/2018 16:31:18,Test Org,None,This is a test,This is still a test,"Food, Education, Health, Housing, Cinnamon Buns",any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,update
 12/2/2018 14:01:10,Family Promise Chicago North Shore (FPCNS),https://familypromise.org/the-latest/family-promise-welcomes-chicago-north-shore/,"Family Promise serves families with young children who are homeless or at risk of becoming homeless. 
 ",847-475-4500; tracy@fpcnorthshore.org  ,"Housing, Family",any_gender,any_race,"children, teens",Family,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,long_term,new
 12/2/2018 14:10:31,Connections for the Homeless - Evanston,https://www.connect2home.org/housing.html,"Operate a range of housing programs to help people more from homelessness to housing as quickly as possible. To help build the economic and housing security of families and transitional aged youth (18 to 24 years of age) that are unstably housed. Our short-term housing programs, coupled with robust case management, help our participants develop the skills and confidence they need to live and thrive in our community. Services available include: ​Supportive Housing, Transitional Housing, shelter","Main Office at 847.475.7070, Monday - Friday from 8:30am - 4:30pm; Monday - Thursday 1:30pm - 4:00pm; Friday 10:30am - 1:00pm; 1458 Chicago Ave, Evanston. Basement entrance located on the northwest corner of Lake Street Church;  Intakes are by appointment only by calling 847-424-0945 ext. 15. Clients must arrive by 7 p.m. and depart by 7 a.m. Lockers are available for people to keep their belongings during the day.",Housing,any_gender,any_race,"any_age_group, Family",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,us_citizen,"long_term, short_term",new
@@ -42,11 +41,11 @@ Our Supportive Housing Programs provides subsidized housing to 192 men and women
 12/2/2018 15:38:46,Impact Behavioral Health Partners ,https://www.impactbehavioral.org/housingservicesdetails/,"Our housing programs incorporate clinical and supported employment services to provide a well-rounded, holistic approach to recovery. Utilizing “Housing First” methodology, our programs provide affordable housing to low-income individuals, many of whom are chronically homeless, and have chronic mental illnesses. ","2100 RIDGE AVENUE, SUITE G320
 EVANSTON, IL 60201
 T 847.866.2977 
-MONDAY – FRIDAY 9AM – 5PM",Housing,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,new
+MONDAY – FRIDAY 9AM – 5PM",Housing,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,new
 12/2/2018 15:42:30,Homelessness Prevention Suburban Cook County ,http://www.suburbancook.org/,Assist clients in accessing insurance coverage through the Affordable Care Act and Medicaid Expansion. Provide prescription vouchers to clients who have little or no insurance coverage and urgently need prescription medication.,"Monday–Friday, 10am–2pm; 877.426.6515",Health,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,new
-12/2/2018 15:48:16,Connections' Drop In ,NA,Basic Medical Care,"1458 Chicago Ave, Evanston, IL; Monday - Thursday 1:30pm - 4:00pm; Friday 10:30am - 1:00pm.
+12/2/2018 15:48:16,Connections' Drop In ,https://www.connect2home.org/shelter.html,Basic Medical Care,"1458 Chicago Ave, Evanston, IL; Monday - Thursday 1:30pm - 4:00pm; Friday 10:30am - 1:00pm.
 ",Health,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,new
-12/2/2018 15:51:25,TSA: Evanston Food Pantry,https://www.chicagosfoodbank.org/locations/tsa-evanston-food-pantry/,NA,"1403 Sherman Ave, Evanston, IL 60201
+12/2/2018 15:51:25,TSA: Evanston Food Pantry,https://www.chicagosfoodbank.org/locations/tsa-evanston-food-pantry/,Food Pantry,"1403 Sherman Ave, Evanston, IL 60201
 (847) 866-9770
 CONTACT: Fethiya Idris-Said
 HOURS: Friday: 10:00 am - 12:00 pm",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,new
@@ -59,3 +58,110 @@ Hillside Pantry is located in Northwest Evanston. We've grown from a handful of 
 Saturdays 2PM- 4PM
 
 Hillside Pantry: 2727 Crawford Ave. Evanston, IL ",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,None,new
+12/3/2018 2:05:47,Connections' Drop In ,https://www.connect2home.org/shelter.html,Connections' Drop In on Monday - Thursday 1:30pm - 4:00pm; Friday 10:30am - 1:00pm. ,"1458 Chicago Ave, Evanston, 847.475.7070,","Health, Laundry, Clothing, Legal",any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,update
+12/3/2018 2:14:19,Family Promise New Beginnings,https://familypromise.org/programs/new-beginnings/,"a comprehensive approach to achieving financial sustainability, from basic banking concepts to budgeting and managing credit"," Maggie Bernhard at (908) 273-1100, ext. 13, mbernhard@familypromise.org ",Education,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:21:10,Family Promise Chicago North Shore (FPCNS),http://www.fpcnorthshore.org/program.html,"Provides both day and night time  transportation, and social services to address issues that may have contributed to the situation, Family Promise gives parents a chance to focus on finding employment and provides guidance to create a plan to return to permanent housing. Family Promise Day Center from 8:00 AM to 5:00 PM. Guests pursue employment, tend pre-school children, shower, and do laundry. The day center provides guests with a mailing address and a base for housing and employment searches. ","Tracy L. McKeithen, M.A. Network Director
+847-475-4500
+tracy@fpcnorthshore.org","Transportation, Employment, Health",any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,update
+12/3/2018 2:26:10,Broadway Youth Center ,https://howardbrown.org/byc/, Broadway Youth Center (BYC) of Howard Brown Health is a haven for LGBTQ youth and young people experiencing homelessness or housing instability,"773.935.3151
+4009 N. BROADWAY, CHICAGO, IL, 60613                                                                                     Available Monday, Tuesday, Thursday, Friday
+Breakfast Club, 9 – 11 a.m.
+Basic needs drop-in/lunch, 11 a.m. – 3 p.m.
+Daytime programming, 3 – 5 p.m.
+laundry and showers available 9 a.m. – 3 p.m. ","Clothing, Transportation",any_gender,any_race,"teens, young_adults",any_marital_status,any_employment,"homosexual, bisexual",any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:33:17,Broadway Youth Center ,https://howardbrown.org/byc/, Broadway Youth Center (BYC) of Howard Brown Health is a haven for LGBTQ youth and young people experiencing homelessness or housing instability,"4009 N. BROADWAY, CHICAGO, IL, 60613
+773.935.3151
+Monday, Tuesday, Thursday, Friday
+9 a.m. – 7:30 p.m.
+For an appointment call Ebonii Warren-Watts at 773.299.7920",Housing,any_gender,any_race,"teens, young_adults",any_marital_status,any_employment,"homosexual, bisexual",any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:35:30,Impact Behavioral Health Partners ,https://www.impactbehavioral.org/,"Residential and Non-Residential housing for individuals with mental illness and Be in need of supportive housing and/or mental health services
+","2100 RIDGE AVENUE, SUITE G320
+EVANSTON, IL 60201
+T 847.866.2977 
+MONDAY – FRIDAY 9AM – 5PM",Housing,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:38:44,"Broadway Youth Center - Chicago, IL",http://www.howardbrown.org/byc,"Free medical services for homeless and LGBTQ youth age 12-24. 
+","4009 N Broadway Chicago, IL 60613
+773-299-7600
+Help with Medical and Testing, Youth Walk-in Clinic Monday, Tuesday, Thursday, Friday 12:00 pm - 7:00 pm 
+HIV/STI/Pregnancy testing and treatment as well as same-day access to birth control, HIV prevention medication, hormones, and primary care.
+Therapy: Monday, Thursday, Friday 11:00 AM -2PM for walk-in ; 3:00 PM, 6:00 PM appointment only Same-day access to individual or group therapy 
+Tuesdays 5:00PM- 7:00PM: WOOSAAHH (working on our spirits against anger hate and hostility): A program that engages the artistic self-expression and healing to transform harmful behavior. Mondays 5:00PM, 7:00PM: In.Power*, an empowering support group for survivors of violence to build community and discover healing resources.
+",Health,any_gender,any_race,"teens, young_adults",any_marital_status,any_employment,"homosexual, bisexual",any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:44:31,Impact's Clinical Services Program ,https://www.impactbehavioral.org/clinicalservicesdetails/,Provides recovery-oriented support services to adults with mental illness.,"2100 RIDGE AVENUE, SUITE G320
+EVANSTON, IL 60201
+T 847.866.2977 
+MONDAY – FRIDAY 9AM – 5PM",Health,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:47:13,Illinois Department of Human Services,http://www.dhs.state.il.us/page.aspx?item=29719,Several Programs,"1-800-843-6154
+http://www.dhs.state.il.us/page.aspx?module=16&type=2&item=29719","Food, Employment, Youth Services, Finance",any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,"any_criminal_status, non-felon",us_citizen,either,new
+12/3/2018 23:17:57,Foreclosure Prevention Programs,https://www.ihda.org/my-community/foreclosure-programs/,The Illinois Foreclosure Prevention Network brings together the services of state agencies and non-profit organizations to help connect struggling homeowners with information they need to keep their homes,1-855-533-7411,Housing,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,long_term,new
+12/3/2018 23:21:42,Saving My Home,https://www.ihda.org/my-home/saving-my-home/,Illinois residents struggling to make mortgage payments after calling your lender or servicer directly and explaining your situation.,"(312) 836-5200
+HOURS: 8:30 a.m. – 5:00 p.m.",Housing,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,"either, long_term",new
+12/3/2018 23:25:36,Homelessness Prevention Suburban Cook County ,http://www.suburbancook.org/prevention,"financial assistance with Mortgage, Rent Payments, Rent Deposits, Utility Payments, or other housing issues ",1-877-426-6515,"Housing, Finance",any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,"either, long_term",new
+12/3/2018 23:29:16,YWCA-Evanston/North Shore,https://www.ywca-ens.org/,Domestic Violence Hotline,"(847) 864-8445 
+24-Hour Hotline: (877) 864-8445","Health, Legal",female,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 23:33:13,Supplemental Nutrition Assistance Program (SNAP),https://www.dhs.state.il.us/page.aspx?item=33698,SNAP will help buy the food needed for good health,800-843-6154,Food,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 23:36:14,Temporary Assistance for Needy Families (TANF),https://www.benefits.gov/benefit/1662,"temporary cash, shelter, rent, food, utilities, heating bills, and expenses other than medical",1-800-843-6154,"Food, Housing, Finance",any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 23:39:06, Illinois Low Income Home Energy Assistance Program,https://www.benefits.gov/benefit/1556,The Illinois Low Income Home Energy Assistance Program (LIHEAP) is designed to assist eligible low income households pay for winter energy services,217-785-2533,Utilities ,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 23:41:37,Work4Illinois,https://www2.illinois.gov/sites/work/Pages/default.aspx,"Help with finding a job, assistance with applying for emergency government grants, and other case management type services is what these non-profit organizations.",217-782-7100,Employment ,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 23:49:17,Rainbows for All Children  ,https://rainbows.org/,Support Groups for Helping Children Cope,"Address: 14 Dempster Street Suite C, Evanston, IL 60202
+Hours: Monday- Friday 9AM–5PM
+Phone: (847) 952-1770",Education,any_gender,any_race,"children, teens",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 23:55:15,Northwestern Medical Homelessness and Mental Health Services,https://www.nm.org/about-us/community-initiatives/community-initiatives-in-the-academic-medical-center/community-programs-in-the-academic-medical-center/homelessness-and-mental-health-services,"In partnership with the Chicago Alliance to End Homelessness, we support programs that help identify homeless people with mental illness and we work to provide housing, social support services, medical and mental healthcare",312.967.2037,"Health, Housing",any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 0:00:42,Purple Pantry,https://www.northwestern.edu/enrichment/resources-programs/food-insecurity/index.html,The Purple Pantry collects donations from the Northwestern community and provides groceries to students who experience hunger due to financial constraints,"Thursdays, 2 to 5 p.m. (begins October 11th)
+Sheil Catholic Center, 2110 Sheridan Road
+for urgent requests, schedule an individual appointment with Mary Deeley from Sheil Catholic Center : m-deeley@u.northwestern.edu.",Food,any_gender,any_race,"young_adults, adults",any_marital_status,student,any_orientation,any_beliefs,"any_criminal_status, non-felon",any_citizenship_status,either,new
+12/4/2018 0:30:49,Emergency Assistance Services,https://www.cityofevanston.org/government/departments/health-human-services/preserve/general-assistance/emergency-assistance,The Emergency Assistance Services Program is administered through the General Assistance Program and is available to all City of Evanston residents who meet income and asset guidelines as established by the General Assistance Office. Emergency Assistance can only be issued once in a 12-month period and must meet the definition of an “Emergency” or “Life-Threatening”.,"City of Evanston General Assistance Office
+Lorraine H. Morton – Civic Center
+2100 Ridge Avenue – Room 1600, 1st Floor
+Evanston, IL  60201
+Phone: (847) 448-8112
+Fax: (847) 448-8057
+Hours of Operation: Monday - Friday 8:30 a.m. to 5:00 p.m.","Food, Housing, Finance",any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,"any_criminal_status, non-felon",any_citizenship_status,either,new
+12/4/2018 0:36:28,General Assistance,https://www.cityofevanston.org/government/departments/health-human-services/preserve/general-assistance,The City of Evanston General Assistance Program provides assistance to persons who are not eligible for any other state or federal financial assistance programs and who do not have income or resources to provide for their basic needs.  ,"Health & Human Services Department
+2100 Ridge Ave. Evanston, IL 60201
+Hours:  Mon - Fri: 8:30 am - 5:00 pm
+P: 311 or 847-448-4311","Food, Education, Health, Housing",any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 0:44:20,Howard Brown Health,https://howardbrown.org/hivaids-services/community-testing/,provide free community HIV and STI screening in Evanston,"Evanston Public Library
+1703 Orrington Ave 
+3 p.m. to 7 p.m. on the second Monday of the month
+https://www.cityofevanston.org/government/departments/health-human-services/sti-testing
+ HIV/STI hotline at 1-800-243-2437 every day from 8 a.m. to 10 p.m.",Health,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 0:58:13,NU Gender and Sexuality Resource Center,https://www.northwestern.edu/norris/services/lgbt/,"The Gender and Sexual Resource Center works to provide a safe space and act as hub for organizations, resources, services, and programs of interest to the LGBTQ and Ally community at Northwestern","Phone: (847) 467-0556
+1999 Campus Drive (Norris Center) 3rd Floor
+",Housing,any_gender,any_race,any_age_group,any_marital_status,student,"homosexual, bisexual",any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 1:04:04,City of Evanston Employement,https://www.cityofevanston.org/government/departments/administrative-services/human-resources,Career opportunities with the City of Evanston,"Human Resources Division
+2100 Ridge Avenue, Room 1700
+Evanston, IL 60201
+847-448-8204 (office)
+847-448-8109 (fax)
+humanresources@cityofevanston.org
+Office Hours: Monday-Friday, 8:30AM-5PM",Employment ,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,"any_employment, student, unemployed",any_orientation,any_beliefs,non-felon,any_citizenship_status,either,new
+12/4/2018 1:17:03,Souper Saturday,http://www.firstpresevanston.org/serve/in-our-area/,SOUP KITCHEN,"1427 Chicago Ave, Evanston, IL 60201
+(847) 864-1472 x225
+CONTACT: Kristina Economos
+HOURS: Saturday: 11:30 am - 1:00 pm",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 1:20:10,Interfaith Action of Evanston Robert Crown Community Center,http://www.interfaithactionofevanston.org/services-2/,Soup Kitchens,"1701 Main St, Evanston, IL 60202
+(847) 869-0478
+CONTACT: Mary Beth Roth
+HOURS: Every 2nd Tuesday: 9:30 am - 11:30 am",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 1:31:29,City of Evanston community centers ,https://www.cityofevanston.org/Home/Components/News/News/3197/17,Overnight Warming Shelter,847-448-4311,Housing,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 1:50:45,Housing Opportunities for Women,https://www.how-inc.org/housing,AFFORDABLE SUPPORTIVE HOUSING,"1607 W Howard St.
+Third Floor
+Chicago, IL 60626
+773-465-5770",Housing,female,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 12:02:26,The Food Circle ,www.mgryouth.com,The Food Circle rescues food items from local grocery stores and uses them to make grocery bags for community members in need.,"5514 W Lawrence Ave
+Chicago, IL 60630
+(773)-313-0075",Food,any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/3/2018 2:49:10,Illinois Department of Human Services,http://www.dhs.state.il.us/page.aspx?item=29720,Child Care,"1-800-843-6154
+http://www.dhs.state.il.us/page.aspx?module=16&type=2&item=29719",Child Care,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,"any_criminal_status, non-felon",any_citizenship_status,either,new
+12/3/2018 2:49:10,Illinois Department of Human Services,http://www.dhs.state.il.us/page.aspx?item=29722,Health,"1-800-843-6154
+http://www.dhs.state.il.us/page.aspx?module=16&type=2&item=29719",Health,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,"any_criminal_status, non-felon",any_citizenship_status,either,new
+12/3/2018 2:49:10,Illinois Department of Human Services,http://www.dhs.state.il.us/page.aspx?item=29723,Housing,"1-800-843-6154
+http://www.dhs.state.il.us/page.aspx?module=16&type=2&item=29719",Housing,any_gender,any_race,"young_adults, adults, elderly",any_marital_status,any_employment,any_orientation,any_beliefs,"any_criminal_status, non-felon",any_citizenship_status,either,new
+12/4/2018 1:20:10,Interfaith Action of Evanston Robert Crown Community Center,http://www.interfaithactionofevanston.org/services-2/,"Housing, Food","1701 Main St, Evanston, IL 60202
+(847) 869-0478
+Five days a week, from November through March, we provide afternoon warming centers for anyone who needs to get out of the cold.","Housing, Food",any_gender,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
+12/4/2018 1:50:45,Housing Opportunities for Women,https://www.how-inc.org/supportservices,SUPPORTIVE SERVICES,"1607 W Howard St.
+Third Floor
+Chicago, IL 60626
+773-465-5770","Employment, Child Care",female,any_race,any_age_group,any_marital_status,any_employment,any_orientation,any_beliefs,any_criminal_status,any_citizenship_status,either,new
